@@ -1,4 +1,4 @@
-# Mastering CSS - Second Edition
+# Mastering CSS3 Selectors
 
 (A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.)
 
